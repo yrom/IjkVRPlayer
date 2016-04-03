@@ -1,5 +1,3 @@
-# IjkVRPlayer
-=======
 IjkVRPlayer
 ====
 
@@ -10,7 +8,7 @@ Features
 ===
 1. Play single video side-by-side.
 2. ~~Project 2d texture onto sphere.~~ (TODO)
-3. ~~Support 360 video.~~(TODO) 
+3. ~~Support 360 video.~~(TODO)     
 
 License
 ===

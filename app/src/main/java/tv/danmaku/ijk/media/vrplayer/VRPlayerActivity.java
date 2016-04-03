@@ -52,7 +52,7 @@ public class VRPlayerActivity extends Activity {
             finish();
             return;
         }
-        setContentView(R.layout.activitiy_vr_player);
+        setContentView(R.layout.activity_vr_player);
         mGLView = (GLSurfaceView) findViewById(R.id.surface);
         mGLView.setEGLContextClientVersion(2); //GLES 2.0
         mHandler = new Handler() {

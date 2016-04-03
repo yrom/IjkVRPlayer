@@ -21,6 +21,6 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.4.4.4'
-    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.4.4.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.4.5.1'
+    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.4.5.1'
 }
